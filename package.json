@@ -1,6 +1,6 @@
 {
   "name": "wordle-helper",
-  "version": "1.0.0",
+  "version": "0.2.0",
   "description": "A simple project to help me practice some things and solve Wordle puzzles",
   "main": "src/helper.js",
   "directories": {
