@@ -1,6 +1,4 @@
 import json;
-import os
-import sys 
 
 with open("./data/answers.txt", 'r') as f:
   words = [w.strip() for w in f.readlines()]
